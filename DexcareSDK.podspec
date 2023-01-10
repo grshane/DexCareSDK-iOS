@@ -20,7 +20,6 @@ Pod::Spec.new do |s|
 
   # DexcareSDK dependency
   s.dependency 'MBProgressHUD', '~> 1.2.0'
-  s.dependency 'MessageKit', '3.8.0'
   s.dependency 'OpenTok', '2.24.0'
 
   ## ---------------------------------------------------------------------------
